@@ -1,0 +1,10 @@
+A,26,517,Sonic Adventure 2,1,Corre como Sonic el Erizo y derrota a Eggman,Run as Sonic the Hedgehog and defeat Eggman,29.99,119.96,1,3,sa21.gif,sa22.gif
+A,76,932,Assassins Creed,2,Se un asesino y libera al pueblo de los imperiales,Be an assassin and free the city from the imperials,49.99,149.97,2,1,asa1.gif,asa2.gif
+A,26,194,Fortnite,3,Batalla contra otros 99 jugadores en una isla desierta,Battle against other 99 players in a deserted island,0.00,0.0,0,1,fort1.gif,fort2.gif
+A,76,190,Shadow of the Colossus,2,Controla a Wander y pelea contra 16 colosos, Control Wander and battle against 16 colossus,19.99,39.98,0,2,sotc1.gif,sotc2.gif
+A,76,826,Skyrim,2,Adentrate a Skyrim y convierte en un Dragonborn,Enter Skyrim and be the next Dragonborn,59.99,179.97,0,3,sky1.gif,sky2.gif
+A,73,649,HALO,3,Usa a Master Chief y se un heroe,Control Master Chief and be a hero,14.99,14.99,0,1,halo1.gif,halo2.gif
+A,76,554,MGS3,2,Usa a Snake y infiltrate en la Unión Sovietica,Control Snake and infiltrate the Soviet Union,9.99,19.98,0,2,mgs31.gif,mgs32.gif
+A,26,535,Crash Bandicoot,1,Revive los primeros tres juegos de Crash en uno solo,Revive the first  Crash trilogy in only one game,39.99,0,0,0,crash1.gif,crash2.gif
+A,59,912,Super Mario Galaxy,1,Una aventura espacial con tu fontanero favorito,An spacial adventure with you´re favorite plumber,4.99,4.99,0,1,mario1.gif,mario2.gif
+A,59,740,Zelda Breath of the Wild,4,Adentrate a Hyrule y derrota a Ganon,Enter the lands of Hyrule and defeat Ganon,59.99,0,0,0,zelda1.gif,zelda2.gif

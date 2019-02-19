@@ -1,0 +1,4 @@
+26,Kevin,Cordero,kevinscorzu@estudiantec.cr,www.kggames.com,1
+76,Gabe,Newell,gbnewell@gmail.com,www.steam.com,1
+73,Phil,Spencer,psp@microsoft.com,www.microsoft.com,1
+59,Reggie,Fils'Aime,reggie@noa.com,www.nintendo.com,1
